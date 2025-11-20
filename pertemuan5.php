@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Studi Kasus - Pertemuan 5 (PHP)</title>
-    <body = bgcolor="red    "></body>
+    <body = bgcolor="red"></body>
     <style>
         body {font-family: Arial, sans-serif; padding: 20px;}
         table {
